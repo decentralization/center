@@ -9,3 +9,9 @@ In this center, we aim at understanding how to build decentralized technologies,
 > to think, build and promote a more decentralized technology.
 
 [Join the conversations](https://github.com/decentralization/center/issues)
+
+--
+
+#### Legend
+- DCI, Decentralization Center Issue
+- DCIRFC, Decentralization Center Request for Comment
