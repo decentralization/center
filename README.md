@@ -1,7 +1,9 @@
 # Center
 
 > There is no center, every one is the center.
+>
 > Start your center in your own university, workplace and community,
+>
 > to think, build and promote a more decentralized technology.
 
 The concept of _Decentralization_ is a space yet to be explored.
