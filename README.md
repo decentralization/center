@@ -2,9 +2,9 @@
 
 In this center, we aim at understanding how to build decentralized technologies, exploring their technical and social challenges. We aim at meeting digitally and physically every two weeks, starting February 2016.
 
-> There is no such center, every one is the center.
+> There is no such center, everyone is the center.
 >
-> Start your center in your own university, workplace and community,
+> __Start your center__ in your own university, workplace and community,
 >
 > to think, build and promote a more decentralized technology.
 
