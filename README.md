@@ -15,3 +15,8 @@ In this center, we aim at understanding how to build decentralized technologies,
 #### Legend
 - DCI, Decentralization Center Issues
 - DCIRFC, Decentralization Center Request for Comments
+
+#### Values
+- No discrimination towards age, sex, race, religion
+- Value new ideas, questions and experiments
+- Value the time of others
