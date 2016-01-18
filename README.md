@@ -1,6 +1,6 @@
 # Center
 
-In this center, we aim at understanding how to build decentralized technologies, exploring their technical and social challenges.
+In this center, we aim at understanding how to build decentralized technologies, exploring their technical and social challenges. We aim at meeting digitally and physically every two weeks, starting February 2016.
 
 > There is no such center, every one is the center.
 >
@@ -13,5 +13,5 @@ In this center, we aim at understanding how to build decentralized technologies,
 --
 
 #### Legend
-- DCI, Decentralization Center Issue
-- DCIRFC, Decentralization Center Request for Comment
+- DCI, Decentralization Center Issues
+- DCIRFC, Decentralization Center Request for Comments
