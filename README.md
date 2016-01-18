@@ -12,6 +12,16 @@ In this center, we aim at understanding how to build decentralized technologies,
 
 --
 
+#### Current goal
+- Map the current issues and possible challenges of decentralized technologies
+- Get together a community and set up biweekly meetings
+- Organize a summit around March/June (?)
+
+#### Overall goals
+- Write challenge papers and white papers
+- Foster interest around decentralized technologies
+- _Agreeing on standards (future)_
+
 #### Legend
 - DCI, Decentralization Center Issues
 - DCIRFC, Decentralization Center Request for Comments
